@@ -48,8 +48,8 @@ export const site = {
   defaultMessage:
     "Hello ENY Consulting 👋 I'd like to learn more about your program and how to enroll.",
   /** Optional: shown in footer. Leave "" to hide. */
-  website: "https://businessconsultingschool.ca",
-  websiteLabel: "businessconsultingschool.ca",
+  website: "https://businessanalysisschool.com",
+  websiteLabel: "businessanalysisschool.com",
 };
 
 export const helpTopics = [
