@@ -43,7 +43,7 @@ export const site = {
   headlineAccent: "Get answers in minutes.",
   subheadline:
     "Questions about our programs, pricing, payment, or how to enroll? Pick a support team member below and message them directly on WhatsApp.",
-  availability: "Mon – Sat · 8:00 AM – 8:00 PM (WAT)",
+  availability: "Mon – Fri · 9:00 AM – 6:00 PM (WAT)",
   responseTime: "Typically replies within minutes",
   defaultMessage:
     "Hello ENY Consulting 👋 I'd like to learn more about your program and how to enroll.",
