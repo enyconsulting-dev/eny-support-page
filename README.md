@@ -10,7 +10,6 @@ npm run dev        # http://localhost:3000
 npm run build && npm start
 ```
 
-Deploys as-is to Vercel (framework preset: Next.js).
 
 ## The only file you need to edit: `data/team.ts`
 

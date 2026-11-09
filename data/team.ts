@@ -65,7 +65,7 @@ export const team: TeamMember[] = [
     name: "Madojemu Glory",
     role: "Sales & Enrollment Support",
     blurb: "Programs, pricing and enrollment guidance.",
-    whatsapp: "2340000000001",
+    whatsapp: "2349169994482",
     image: "/team/member-1.png",
     tags: ["Enrollment", "Pricing", "Guidance", "General"],
   },
