@@ -62,7 +62,7 @@ export const helpTopics = [
 /* ---------- TEAM (4 members — replace the placeholders) ---------- */
 export const team: TeamMember[] = [
   {
-    name: "Madojemu Glory",
+    name: "Glory Madojemu",
     role: "Sales & Enrollment Support",
     blurb: "Programs, pricing and enrollment guidance.",
     whatsapp: "2349169994482",
@@ -70,7 +70,7 @@ export const team: TeamMember[] = [
     tags: ["Enrollment", "Pricing", "Guidance", "General"],
   },
   {
-    name: "Abe Kehinde",
+    name: "Kehinde Abe",
     role: "Sales Associate",
     blurb: "Helps you pick the right program and get started.",
     whatsapp: "2349085539380",
@@ -78,7 +78,7 @@ export const team: TeamMember[] = [
     tags: ["Programs", "Onboarding"],
   },
   {
-    name: "Adegoke Esther",
+    name: "Esther Adegoke",
     role: "Sales & Enrollment Support",
     blurb: "Payments, receipts and account access.",
     whatsapp: "234 916 999 4483",
@@ -86,7 +86,7 @@ export const team: TeamMember[] = [
     tags: ["Payments", "Access"],
   },
   {
-    name: "Obike Franca",
+    name: "Franca Obike",
     role: "Sales Support",
     blurb: "General enquiries and partnership questions.",
     whatsapp: "2349085515969",
