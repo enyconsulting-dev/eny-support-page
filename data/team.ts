@@ -82,7 +82,7 @@ export const team: TeamMember[] = [
     role: "Sales & Enrollment Support",
     blurb: "Payments, receipts and account access.",
     whatsapp: "234 916 999 4483",
-    image: "/team/member-3.jpeg",
+    image: "/team/member-3.png",
     tags: ["Payments", "Access"],
   },
   {
